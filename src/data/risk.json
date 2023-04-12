@@ -1,0 +1,52 @@
+{
+    "es": {
+        "type": [
+            "Comida",
+            "Vivienda",
+            "Seguridad",
+            "Transporte",
+            "Emocional",
+            "Ejercicio"
+        ],
+        "risk": [
+            "Leve",
+            "Leve moderado",
+            "Moderado",
+            "Moderado severo",
+            "Severo"
+        ]
+    },
+    "en": {
+        "type": [
+            "Food",
+            "Living place",
+            "Security",
+            "Transportation",
+            "Emotional",
+            "Exercise"
+        ],
+        "risk": [
+            "Mild Moderate",
+            "Moderate",
+            "Moderate severe",
+            "Severe"
+        ]
+    },
+    "pr": {
+        "type": [
+            "Alimentação",
+            "Moradia",
+            "Segurança",
+            "Transporte",
+            "Emocional",
+            "Exercícios físicos"
+        ],
+        "risk": [
+            "Leve",
+            "Leve moderado",
+            "Moderado",
+            "Moderado grave",
+            "Grave"
+        ]
+    }
+}

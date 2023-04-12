@@ -1,0 +1,32 @@
+{
+    "relationshipEs": [
+        "Madre",
+        "Padre",
+        "Abuelo",
+        "Abuela",
+        "Hermano",
+        "Hermana",
+        "Hijo",
+        "Hija"
+    ],
+    "relationshipEn": [
+        "Mother",
+        "Dad",
+        "Grandfather",
+        "Grandmother",
+        "Brother",
+        "Sister",
+        "Son",
+        "Daughter"
+    ],
+    "relationshipPr": [
+        "Mãe",
+        "Pai",
+        "Avô",
+        "Avó",
+        "Irmão",
+        "Irmã",
+        "Filho",
+        "Filha"
+    ]
+}

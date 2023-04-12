@@ -1,0 +1,29 @@
+{
+    "transfusionEs": [
+        "Glóbulos rojos",
+        "Plaquetas",
+        "Plasma",
+        "Crioprecipitado",
+        "Anticuerpos",
+        "Glóbulos blancos",
+        "Sustitutos de la sangre"
+    ],
+    "transfusionEn": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma",
+        "Cryoprecipitate",
+        "Antibodies",
+        "White blood cells",
+        "Blood substitutes"
+    ],
+    "transfusionPr": [
+        "Glóbulos vermelhos",
+        "Plaquetas",
+        "Plasma",
+        "Crioprecipitado",
+        "Anticorpos",
+        "Glóbulos brancos",
+        "Substitutos do sangue"
+    ]
+}

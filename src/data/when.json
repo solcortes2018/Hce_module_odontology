@@ -1,0 +1,260 @@
+{
+    "whenEs": [
+        {
+            "description": "media hr antes de cada comida"
+        },
+        {
+            "description": "1 hr antes de cada comida"
+        },
+        {
+            "description": "2 hrs antes de cada comida"
+        },
+        {
+            "description": "media hr despues de cada comida"
+        },
+        {
+            "description": "1 hr despues de cada comida"
+        },
+        {
+            "description": "2 hrs despues de cada comida"
+        },
+        {
+            "description": "con el desayuno"
+        },
+        {
+            "description": "con el almuerzo"
+        },
+        {
+            "description": "con la comida"
+        },
+        {
+            "description": "en la mañana antes de las comidas"
+        },
+        {
+            "description": "en la mañana despues de las comidas"
+        },
+        {
+            "description": "al medio dia"
+        },
+        {
+            "description": "al medio dia antes de las comidas"
+        },
+        {
+            "description": "al medio dia despues de las comidas"
+        },
+        {
+            "description": "en la tarde antes de las comidas"
+        },
+        {
+            "description": "en la tarde despues de las comidas"
+        },
+        {
+            "description": "en la noche antes de las comidas"
+        },
+        {
+            "description": "en la noche despues de las comidas"
+        },
+        {
+            "description": "en la mañana y en la tarde antes de las comidas"
+        },
+        {
+            "description": "en la mañana y en la tarde despues de las comidas"
+        },
+        {
+            "description": "en la mañana y en la noche antes de las comidas"
+        },
+        {
+            "description": "en la mañana y en la noche despues de las comidas"
+        },
+        {
+            "description": "en la tarde y en la noche antes de las comidas"
+        },
+        {
+            "description": "en la tarde y en la noche despues de las comidas"
+        },
+        {
+            "description": "antes de acostarse a dormir"
+        },
+        {
+            "description": "en ayunas"
+        },
+        {
+            "description": "antes de las comidas"
+        },
+        {
+            "description": "despues de las comidas"
+        }
+    ],
+    "whenEn": [
+        {
+            "description": "half an hour before meals"
+        },
+        {
+            "description": "1 hour before meals"
+        },
+        {
+            "description": "2 hrs before meals"
+        },
+        {
+            "description": "half an hour after meals"
+        },
+        {
+            "description": "1 hour after meals"
+        },
+        {
+            "description": "2 hours after meals"
+        },
+        {
+            "description": "with breakfast"
+        },
+        {
+            "description": "with lunch"
+        },
+        {
+            "description": "with dinner"
+        },
+        {
+            "description": "in the morning before meals"
+        },
+        {
+            "description": "in the morning after meals"
+        },
+        {
+            "description": "at lunch time"
+        },
+        {
+            "description": "at lunch time before meals"
+        },
+        {
+            "description": "at lunch time after meals"
+        },
+        {
+            "description": "in the afternoon before meals"
+        },
+        {
+            "description": "in the afternoon after meals"
+        },
+        {
+            "description": "at night before meals"
+        },
+        {
+            "description": "at night after meals"
+        },
+        {
+            "description": "in the morning and in the afternoon before meals"
+        },
+        {
+            "description": "in the morning and in the afternoon after meals"
+        },
+        {
+            "description": "in the morning and at night before meals"
+        },
+        {
+            "description": "in the morning and at night after meals"
+        },
+        {
+            "description": "in the afternoon and at night before meals"
+        },
+        {
+            "description": "in the afternoon and at night after meals"
+        },
+        {
+            "description": "before going to sleep"
+        },
+        {
+            "description": "fasting"
+        },
+        {
+            "description": "before meals"
+        },
+        {
+            "description": "after meals"
+        }
+    ],
+    "whenPr": [
+        {
+            "description": "meia hora antes das refeições"
+        },
+        {
+            "description": "1 hora antes das refeições"
+        },
+        {
+            "description": "2 horas antes das refeições"
+        },
+        {
+            "description": "meia hora após as refeições"
+        },
+        {
+            "description": "1 hora após as refeições"
+        },
+        {
+            "description": "2 horas após as refeições"
+        },
+        {
+            "description": "durante o café da manhã"
+        },
+        {
+            "description": "durante o almoço"
+        },
+        {
+            "description": "durante o jantar"
+        },
+        {
+            "description": "pela manhã antes das refeições"
+        },
+        {
+            "description": "pela manhã após as refeições"
+        },
+        {
+            "description": "na hora do almoço"
+        },
+        {
+            "description": "na hora do almoço antes das refeições"
+        },
+        {
+            "description": "na hora do almoço após as refeições"
+        },
+        {
+            "description": "à tarde antes das refeições"
+        },
+        {
+            "description": "à tarde após as refeições"
+        },
+        {
+            "description": "à noite antes das refeições"
+        },
+        {
+            "description": "à noite após as refeições"
+        },
+        {
+            "description": "de manhã e à tarde antes das refeições"
+        },
+        {
+            "description": "de manhã e à tarde após as refeições"
+        },
+        {
+            "description": "de manhã e à noite antes das refeições"
+        },
+        {
+            "description": "de manhã e à noite após as refeições"
+        },
+        {
+            "description": "de tarde e à noite antes das refeições"
+        },
+        {
+            "description": "de tarde e à noite após as refeições"
+        },
+        {
+            "description": "antes de ir dormir"
+        },
+        {
+            "description": "em jejum"
+        },
+        {
+            "description": "antes das refeições"
+        },
+        {
+            "description": "após as refeições"
+        }
+    ]
+}

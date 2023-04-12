@@ -1,0 +1,398 @@
+{
+    "FrequencyEs": [
+        {
+            "Quantity": 72,
+            "Type": "horas",
+            "Label": "Cada 72 Horas"
+        },
+        {
+            "Quantity": 48,
+            "Type": "horas",
+            "Label": "Cada 48 Horas"
+        },
+        {
+            "Quantity": 24,
+            "Type": "horas",
+            "Label": "Cada 24 Horas"
+        },
+        {
+            "Quantity": 12,
+            "Type": "horas",
+            "Label": "Cada 12 Horas"
+        },
+        {
+            "Quantity": 8,
+            "Type": "horas",
+            "Label": "Cada 8 Horas"
+        },
+        {
+            "Quantity": 6,
+            "Type": "horas",
+            "Label": "Cada 6 Horas"
+        },
+        {
+            "Quantity": 4,
+            "Type": "horas",
+            "Label": "Cada 4 Horas"
+        },
+        {
+            "Quantity": 3,
+            "Type": "horas",
+            "Label": "Cada 3 Horas"
+        },
+        {
+            "Quantity": 2,
+            "Type": "horas",
+            "Label": "Cada 2 Horas"
+        },
+        {
+            "Quantity": 1,
+            "Type": "hora",
+            "Label": "Cada hora"
+        },
+        {
+            "Quantity": 30,
+            "Type": "minutos",
+            "Label": "Cada 30 Minutos"
+        },
+        {
+            "Quantity": 1,
+            "Type": "minuto",
+            "Label": "Cada Minuto"
+        },
+        {
+            "Quantity": 1,
+            "Type": "unica",
+            "Label": "Unica"
+        },
+        {
+            "Quantity": 1,
+            "Type": "una vez",
+            "Label": "Una vez"
+        },
+        {
+            "Quantity": 1,
+            "Type": "dia",
+            "Label": "1 Dia A La Semana"
+        },
+        {
+            "Quantity": 2,
+            "Type": "dia",
+            "Label": "2 Dias A La Semana"
+        },
+        {
+            "Quantity": 3,
+            "Type": "dia",
+            "Label": "3 Dias A La Semana"
+        },
+        {
+            "Quantity": 4,
+            "Type": "dia",
+            "Label": "4 Dias A La Semana"
+        },
+        {
+            "Quantity": 5,
+            "Type": "dia",
+            "Label": "5 Dias A La Semana"
+        },
+        {
+            "Quantity": 1,
+            "Type": "2 semanas",
+            "Label": "1 Vez Cada 2 Semanas"
+        },
+        {
+            "Quantity": 1,
+            "Type": "mes",
+            "Label": "Mensual"
+        },
+        {
+            "Quantity": 2,
+            "Type": "mes",
+            "Label": "2 veces al mes"
+        },
+        {
+            "Quantity": 3,
+            "Type": "mes",
+            "Label": "3 veces al mes"
+        },
+        {
+            "Quantity": 1,
+            "Type": "trimestre",
+            "Label": "Trimestral"
+        },
+        {
+            "Quantity": 1,
+            "Type": "semestre",
+            "Label": "Semestral"
+        },
+        {
+            "Quantity": 1,
+            "Type": "año",
+            "Label": "1 Vez Al Año"
+        }
+    ],
+    "FrequencyEn": [
+        {
+            "Quantity": 72,
+            "Type": "hours",
+            "Label": "Every 72 hours"
+        },
+        {
+            "Quantity": 48,
+            "Type": "hours",
+            "Label": "Every 48 hours"
+        },
+        {
+            "Quantity": 24,
+            "Type": "hours",
+            "Label": "Every 24 hours"
+        },
+        {
+            "Quantity": 12,
+            "Type": "hours",
+            "Label": "Every 12 hours"
+        },
+        {
+            "Quantity": 8,
+            "Type": "hours",
+            "Label": "Every 8 hours"
+        },
+        {
+            "Quantity": 6,
+            "Type": "hours",
+            "Label": "Every 6 hours"
+        },
+        {
+            "Quantity": 4,
+            "Type": "hours",
+            "Label": "Every 4 hours"
+        },
+        {
+            "Quantity": 3,
+            "Type": "hours",
+            "Label": "Every 3 hours"
+        },
+        {
+            "Quantity": 2,
+            "Type": "hours",
+            "Label": "Every 2 hours"
+        },
+        {
+            "Quantity": 1,
+            "Type": "hour",
+            "Label": "Every hour"
+        },
+        {
+            "Quantity": 30,
+            "Type": "minutes",
+            "Label": "Every 30 minutes"
+        },
+        {
+            "Quantity": 1,
+            "Type": "minute",
+            "Label": "Every minute"
+        },
+        {
+            "Quantity": 1,
+            "Type": "unique",
+            "Label": "Unique"
+        },
+        {
+            "Quantity": 1,
+            "Type": "one time",
+            "Label": "One time"
+        },
+        {
+            "Quantity": 1,
+            "Type": "day",
+            "Label": "1 day a week"
+        },
+        {
+            "Quantity": 2,
+            "Type": "day",
+            "Label": "2 days a week"
+        },
+        {
+            "Quantity": 3,
+            "Type": "day",
+            "Label": "3 days a week"
+        },
+        {
+            "Quantity": 4,
+            "Type": "day",
+            "Label": "4 days a week"
+        },
+        {
+            "Quantity": 5,
+            "Type": "day",
+            "Label": "5 days a week"
+        },
+        {
+            "Quantity": 1,
+            "Type": "2 semanas",
+            "Label": "1 time every 2 weeks"
+        },
+        {
+            "Quantity": 1,
+            "Type": "month",
+            "Label": "Monthly"
+        },
+        {
+            "Quantity": 2,
+            "Type": "month",
+            "Label": "2 times a month"
+        },
+        {
+            "Quantity": 3,
+            "Type": "month",
+            "Label": "3 times a month"
+        },
+        {
+            "Quantity": 1,
+            "Type": "quarterly",
+            "Label": "quarterly"
+        },
+        {
+            "Quantity": 1,
+            "Type": "biannual",
+            "Label": "Biannual"
+        },
+        {
+            "Quantity": 1,
+            "Type": "year",
+            "Label": "1 time a year"
+        }
+    ],
+    "FrequencyPr": [
+        {
+            "Quantity": 72,
+            "Type": "horas",
+            "Label": "Cada 72 Horas"
+        },
+        {
+            "Quantity": 48,
+            "Type": "horas",
+            "Label": "Cada 48 Horas"
+        },
+        {
+            "Quantity": 24,
+            "Type": "horas",
+            "Label": "Cada 24 Horas"
+        },
+        {
+            "Quantity": 12,
+            "Type": "horas",
+            "Label": "Cada 12 Horas"
+        },
+        {
+            "Quantity": 8,
+            "Type": "horas",
+            "Label": "Cada 8 Horas"
+        },
+        {
+            "Quantity": 6,
+            "Type": "horas",
+            "Label": "Cada 6 Horas"
+        },
+        {
+            "Quantity": 4,
+            "Type": "horas",
+            "Label": "Cada 4 Horas"
+        },
+        {
+            "Quantity": 3,
+            "Type": "horas",
+            "Label": "Cada 3 Horas"
+        },
+        {
+            "Quantity": 2,
+            "Type": "horas",
+            "Label": "Cada 2 Horas"
+        },
+        {
+            "Quantity": 1,
+            "Type": "hora",
+            "Label": "Cada hora"
+        },
+        {
+            "Quantity": 30,
+            "Type": "minutos",
+            "Label": "Cada 30 Minutos"
+        },
+        {
+            "Quantity": 1,
+            "Type": "minuto",
+            "Label": "Cada Minuto"
+        },
+        {
+            "Quantity": 1,
+            "Type": "unica",
+            "Label": "Unica"
+        },
+        {
+            "Quantity": 1,
+            "Type": "Uma vez",
+            "Label": "Uma vez"
+        },
+        {
+            "Quantity": 1,
+            "Type": "dia",
+            "Label": "1 dia na semana"
+        },
+        {
+            "Quantity": 2,
+            "Type": "dia",
+            "Label": "2 dias na semana"
+        },
+        {
+            "Quantity": 3,
+            "Type": "dia",
+            "Label": "3 dias na semana"
+        },
+        {
+            "Quantity": 4,
+            "Type": "dia",
+            "Label": "4 dias na semana"
+        },
+        {
+            "Quantity": 5,
+            "Type": "dia",
+            "Label": "5 dias na semana"
+        },
+        {
+            "Quantity": 1,
+            "Type": "2 semanas",
+            "Label": "1 vez a cada 2 semanas"
+        },
+        {
+            "Quantity": 1,
+            "Type": "mês",
+            "Label": "Mensal"
+        },
+        {
+            "Quantity": 2,
+            "Type": "mês",
+            "Label": "2 vezes ao mês"
+        },
+        {
+            "Quantity": 3,
+            "Type": "mês",
+            "Label": "3 vezes ao mês"
+        },
+        {
+            "Quantity": 1,
+            "Type": "trimestre",
+            "Label": "Trimestral"
+        },
+        {
+            "Quantity": 1,
+            "Type": "semestre",
+            "Label": "Semestral"
+        },
+        {
+            "Quantity": 1,
+            "Type": "ano",
+            "Label": "1 vez ao ano"
+        }
+    ]
+}
